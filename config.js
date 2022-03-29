@@ -10,10 +10,10 @@ const CONFIG = {
     btnYes: 'iu vợ bngoc nhất ',
     btnNo: 'kó iu :3',
     question:'anh có bic vì sao em iu anh hong',
-    btnReply: 'vì anh có bụng béo kiki thít thít',
-    reply: 'sinh nhật 17 tủi phải thật tuyệt vời nhen',
-    mess: 'năm sau mình lại đón sinh nhật với nhau nữa đc hong babi',
-    messDesc: 'em iu anh rấc rấc nhiều nhiều nhiều.',
+    btnReply: 'gửi choa iem',
+    reply: 'hong bic chứ còn gì nữa',
+    mess: 'vì anh cóa bụng béo kikiki',
+    messDesc: 'em iu anh rấc rấc nhiều nhiều nhiều.năm sau mình lại đón sinh nhật nữa nhen',
     btnAccept: 'HAPPY BDAY MY BABI BOO',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
