@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'hellu bây bi',
+    introDesc: `hôm nay là ngày gì ý nhở
+    có phại là ngày con lợn bíu chấu chí ra đơi hong
+    kikiki
+ 
+    btnIntro: 'mong em bé sẽ nhận được những gì tốt đẹp nhất trong hôm nay và cả 364 ngày khác nữa nhen',
+    title: 'anh có bic là em iu anh nhiều như nào hong',
+    desc: 'anh có iu em hong',
+    btnYes: 'iu vợ bngoc nhất ',
+    btnNo: 'kó iu :3',
+    question:'anh có bic vì sao em iu anh hong',
+    btnReply: 'vì anh có bụng béo kiki thít thít',
+    reply: 'sinh nhật 17 tủi phải thật tuyệt vời nhen',
+    mess: 'năm sau mình lại đón sinh nhật với nhau nữa đc hong babi',
+    messDesc: 'em iu anh rấc rấc nhiều nhiều nhiều.',
+    btnAccept: 'HAPPY BDAY MY BABI BOO',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
