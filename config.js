@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'hong bic chứ còn gì nữa',
     mess: 'vì anh cóa bụng béo kikiki',
     messDesc: 'em iu anh rấc rấc nhiều nhiều nhiều.năm sau mình lại đón sinh nhật nữa nhen',
-    btnAccept: 'HAPPY BDAY MY BABI BOO',
+    btnAccept: 'HAPPY BDAY MY BABI BOO I LOVE YOU MOA MOA',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
